@@ -1,2 +1,9 @@
-jQuery OpenMenu Plugin
+/*
+ * version: 0.0.1
+ * package: jquery.xhOpenMenu
+ * author: Dustin Nielson - http://www.xocialhost.com
+ * copyright: Copyright (c) 2011 Dustin Nielson - xocialhost.com All rights reserved.
+ * license: MIT
+ */
 
+Access and Parse an OpenMenu menu in JSON format
